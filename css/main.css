@@ -3,7 +3,7 @@ body{
 	margin:0auto;
 	background-image:url(../images/greybackgroundgradient.jpg);
 	background-color:#858383;
-	background-repeat:repeat-y;
+	background-repeat:repeat-x;
 }
 
 /*tile------------------------------------------*/
