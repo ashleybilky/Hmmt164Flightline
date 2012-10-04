@@ -38,11 +38,21 @@ h6{
 	font-size:30px
 }
 
-ul li{
+ul{
+	width:100%;
+	margin:0 auto;
+	background:#000;
 	list-style-type:none;
-	display:inline;
+	padding:0;
+	overflow:hidden;
 }
 
+li{
+	width:150px;
+	background:#fcf4f4;
+	float:left;
+	
+}
 p{
 	color: #000;
 	font-family: 'Underdog', cursive;
