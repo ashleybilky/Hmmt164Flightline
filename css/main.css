@@ -84,7 +84,8 @@ em{
 }
 
 a:link{
-	color:#fdfafa
+	color:#fdfafa;
+	background:ffff00;
 }
 a:visited{
 	color:#00FF00
