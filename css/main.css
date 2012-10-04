@@ -53,6 +53,11 @@ ul li{
 	float:left;
 	
 }
+a{
+	text-decoration:none;
+	display:block;
+	height:36px;
+}
 p{
 	color: #000;
 	font-family: 'Underdog', cursive;
