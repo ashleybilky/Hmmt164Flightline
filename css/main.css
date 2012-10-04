@@ -85,3 +85,8 @@ div{
 	-moz-column-count:3;
 	-moz-column-gap:40px;
 }
+
+a{
+	border:3px solid #000;
+	display:block;
+	}
