@@ -39,7 +39,7 @@ h6{
 	font-size:30px
 }
 
-ul li{
+li{
 	width:100%;
 	margin:0 auto;
 	background:#000;
@@ -48,7 +48,7 @@ ul li{
 	overflow:hidden;
 }
 
-ul li{
+ li{
 	width:150px;
 	background:#000;
 	float:left;
