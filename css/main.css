@@ -57,6 +57,9 @@ a{
 	text-decoration:none;
 	display:block;
 	height:36px;
+	line-height:36px;
+	text-align:center;
+	color:fdfafa;
 }
 p{
 	color: #000;
