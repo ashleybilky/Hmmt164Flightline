@@ -1,0 +1,85 @@
+body{
+	width:100%;
+	margin:0auto;
+	background-color:grey;
+}
+
+/*tile------------------------------------------*/
+h1{
+	font-family: 'Eater' , cursive;
+	font-size:48px
+}
+
+/*headings---------------------------------------*/
+h2{
+	font-family:'Source Code Pro', sans-serif;
+	font-size:36px
+}
+
+h4{
+	font-family:'Source Code Pro', sans-serif;
+	font-size:36px
+}
+
+h5{
+	font-family:'Source Code Pro', sans-serif;
+	font-size:36px
+}
+
+h6{
+	font-family:'Source Code Pro', sans-serif;
+	font-size:20px
+}
+
+ul li{
+	list-style-type:none;
+	display:inline;
+}
+
+p{
+	color: #000;
+	font-family: 'Underdog', cursive;
+	font-size:24px
+}
+
+strong{
+		font-size:32px;
+		font-weight:bold;
+		text-decoration:underline;
+}
+
+em{
+	text-decoration:underline;
+}
+
+a:link{
+	color:#66FFFF
+}
+a:visited{
+	color:#00FF00
+}
+a:hover{
+	color:#333399
+}
+a:active{
+	color:#33FF99
+}
+
+ol{
+	
+	list-style-type:none;
+	font-size:24px;
+
+}
+
+.gallery{
+	background-color:white;
+	border-width:2px;
+	border-style:solid;
+	border-color:red;
+}
+
+div{
+	-moz-column-count:3;
+	-moz-column-gap:40px;
+}
