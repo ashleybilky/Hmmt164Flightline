@@ -86,6 +86,10 @@ div{
 	-moz-column-gap:40px;
 }
 
+div li{
+	float:left;
+	margin-left:10px;
+}
 a{
 	border:3px solid #000;
 	display:block;
