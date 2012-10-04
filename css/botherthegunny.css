@@ -1,0 +1,67 @@
+body{
+	width:100%;
+	margin:0auto;
+	background-image:url(../images/greybackgroundgradient.jpg);
+	background-color:#858383;
+	background-repeat:repeat-x;
+}
+
+/*tile------------------------------------------*/
+h1{
+	font-family: 'Eater' , cursive;
+	font-size:48px
+}
+
+/*headings---------------------------------------*/
+h3{
+	font-family:'Source Code Pro', sans-serif;
+	font-size:36px
+}
+
+ul li{
+	list-style-type:none;
+	display:inline;
+}
+
+p{
+	color: #000;
+	font-family: 'Underdog', cursive;
+	font-size:24px
+}
+
+strong{
+		font-size:32px;
+		font-weight:bold;
+		text-decoration:underline;
+}
+
+em{
+	text-decoration:underline;
+}
+
+a:link{
+	color:#66FFFF
+}
+a:visited{
+	color:#00FF00
+}
+a:hover{
+	color:#333399
+}
+a:active{
+	color:#33FF99
+}
+
+ol{
+	
+	list-style-type:none;
+	font-size:24px;
+
+}
+
+p{
+	float:left;
+	margin-left:10px;
+	border:3px solid #000;
+	display:block;
+}
