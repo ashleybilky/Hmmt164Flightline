@@ -49,6 +49,12 @@ p{
 	font-size:24px
 }
 
+.section{
+	color: #000;
+	font-family: 'Underdog', cursive;
+	font-size:24px
+}
+
 strong{
 		font-size:32px;
 		font-weight:bold;
