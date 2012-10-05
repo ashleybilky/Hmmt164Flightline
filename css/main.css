@@ -58,7 +58,7 @@ ul{
 a{
 	text-decoration:none;
 	background:red;
-	display:block;
+	display:inline;
 	height:36px;
 	line-height:46px;
 	text-align:left;
