@@ -40,7 +40,7 @@ h6{
 }
 
 /*-----------------Nav Elements--------------------*/
-li{
+ul{
 	width:100%;
 	margin:0 auto;
 	background:#000;
@@ -63,6 +63,8 @@ a{
 	text-align:left;
 	color:fdfafa;
 }
+
+
 p{
 	color: #000;
 	font-family: 'Underdog', cursive;
