@@ -137,5 +137,5 @@ img{
 }
 
 .clearFix{
-	clear:both;
+	clear:left;
 }
