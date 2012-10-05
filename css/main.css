@@ -31,6 +31,7 @@ h4{
 h5{
 	font-family:'Source Code Pro', sans-serif;
 	font-size:36px
+	
 }
 
 h6{
@@ -110,10 +111,11 @@ ol{
 
 .gallery{
 	background-color:white;
-	border-width:2px;
+	border-width:5px;
 	border-style:solid;
 	border-color:red;
 	float:left;
+	box-shadow: 5px 5px 5px red;
 }
 
 div{
