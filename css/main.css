@@ -1,10 +1,24 @@
 body{
-	width:100%;
+	width:900px;
 	margin:0auto;
 	background-image:url(../images/greybackgroundgradient.jpg);
 	background-color:#858383;
 	background-repeat:repeat-x;
 }
+
+#wrap{
+	width: 900px;
+	margin:0 auto;
+}
+
+/*logo------------------------------------------*/
+.logo img{
+	border:5px solid #000;
+	margin:10px;
+	padding:2px;
+	float:left;
+}
+
 
 /*tile------------------------------------------*/
 h1{
@@ -14,28 +28,28 @@ h1{
 
 /*headings---------------------------------------*/
 h2{
-	font-family:'Source Code Pro', sans-serif;
+	font-family: 'Montserrat Subrayada', sans-serif;
 	font-size:36px
 }
 
 h3{
-	font-family:'Source Code Pro', sans-serif;
+	font-family: 'Montserrat Subrayada', sans-serif;
 	font-size:36px
 }
 
 h4{
-	font-family:'Source Code Pro', sans-serif;
+	font-family: 'Montserrat Subrayada', sans-serif;
 	font-size:36px
 }
 
 h5{
-	font-family:'Source Code Pro', sans-serif;
+	font-family: 'Montserrat Subrayada', sans-serif;
 	font-size:36px
 	
 }
 
 h6{
-	font-family:'Source Code Pro', sans-serif;
+	font-family: 'Montserrat Subrayada', sans-serif;
 	font-size:30px
 }
 
@@ -69,7 +83,7 @@ a{
 
 p{
 	color: #000;
-	font-family: 'Underdog', cursive;
+	font-family: 'Source Code Pro', sans-serif;
 	font-size:24px
 }
 
@@ -134,4 +148,5 @@ img{
 	margin:10px;
 	padding:2px;
 }
+
 
