@@ -43,7 +43,8 @@ h5{
 
 h6{
 	font-family: 'Montserrat Subrayada', sans-serif;
-	font-size:30px
+	font-size:30px;
+	float:left;
 }
 
 /*-----------------Nav Elements--------------------*/
@@ -138,7 +139,7 @@ a:active{
 	border-style:solid;
 	border-color:red;
 	float:left;
-box-shadow: 10px 10px 5px #888888;
+	box-shadow: 10px 10px 5px #888888;
 }
 
 div{
