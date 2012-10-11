@@ -138,7 +138,7 @@ a:active{
 	border-style:solid;
 	border-color:red;
 	float:left;
-	box-shadow: 5px 5px 5px red;
+	box-shadow: 5px 5px 5px #FF0000;
 }
 
 div{
