@@ -4,6 +4,7 @@ body{
 	background-image:url(../images/greybackgroundgradient.jpg);
 	background-color:#858383;
 	background-repeat:repeat-x;
+	text-align:center;
 }
 
 #wrap{
@@ -147,6 +148,7 @@ img{
 	border:5px solid #000;
 	margin:10px;
 	padding:2px;
+	float:left;
 }
 
 
