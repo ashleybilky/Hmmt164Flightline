@@ -154,7 +154,7 @@ img{
 	float: left;
 }
 
-# gallerypictures img{
+.gallerypictures img{
 	border:5px solid #000;
 	margin:10px;
 	padding:2px;
