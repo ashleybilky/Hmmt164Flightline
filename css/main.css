@@ -12,14 +12,6 @@ body{
 	margin:0 auto;
 }
 
-/*logo------------------------------------------*/
-.logo img{
-	border:5px solid #000;
-	margin:10px;
-	padding:2px;
-	float:left;
-}
-
 
 /*tile------------------------------------------*/
 h1{
@@ -86,6 +78,7 @@ p{
 	color: #000;
 	font-family: 'Source Code Pro', sans-serif;
 	font-size:24px
+	float: left;
 }
 
 .section{
