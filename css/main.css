@@ -50,7 +50,7 @@ h6{
 /*-----------------Nav Elements--------------------*/
 ul{
 	width:900px;
-	margin:0 auto;
+	margin: 50px;
 	background:#000;
 	list-style-type:none;
 	padding:0;
@@ -61,10 +61,7 @@ ul{
 	width:150px;
 	background:#000;
 	float:left;
-	list-style-type:none;
-	clearFix: both;
-
-	
+	list-style-type:none;	
 }
 
 .phrogs img{
@@ -167,3 +164,6 @@ img{
 	display: block;
 }
 	
+.clear{
+	clear:right;
+}
