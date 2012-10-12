@@ -1,5 +1,9 @@
 body{
+<<<<<<< HEAD
 	width:90%;
+=======
+	width:960px;
+>>>>>>> parent of 2ec644d... change px to percentage
 	margin: 0 auto;
 	background-image:url(../images/greybackgroundgradient.jpg);
 	background-color:#858383;
@@ -8,7 +12,7 @@ body{
 }
 
 #wrapper{
-	width: 90%;
+	width: 900px;
 	margin:0 auto;
 }
 
@@ -49,8 +53,13 @@ h6{
 
 /*-----------------Nav Elements--------------------*/
 ul{
+<<<<<<< HEAD
 	width:90%;
 	margin: 20%;
+=======
+	width:900px;
+	margin: 50px;
+>>>>>>> parent of 2ec644d... change px to percentage
 	background:#000;
 	list-style-type:none;
 	padding:0;
@@ -58,7 +67,7 @@ ul{
 }
 
  li{
-	width:50%;
+	width:150px;
 	background:#000;
 	float:left;
 	list-style-type:none;	
