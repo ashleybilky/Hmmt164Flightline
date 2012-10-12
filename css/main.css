@@ -65,7 +65,7 @@ ul{
 }
 
 .phrogs img{
-	width:500px;
+	width:90%;
 	border:5px solid #000;
 	margin:0 auto;
 	padding:2px;
@@ -135,7 +135,7 @@ a:active{
 }
 
 .gallery{
-	width:100%;
+	width:90%;
 	background-color:white;
 	border-width:5px;
 	border-style:solid;
