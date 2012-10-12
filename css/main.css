@@ -160,7 +160,7 @@ img{
 	border:5px solid #000;
 	margin:0 auto;
 	padding:2px;
-	float: none;
+	float:right;
 	overflow: hidden;
 }	
 .clear{
