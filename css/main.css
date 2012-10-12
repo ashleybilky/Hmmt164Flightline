@@ -144,7 +144,6 @@ img{
 	border:5px solid #000;
 	margin:10px;
 	padding:2px;
-	float: center;
 }
 
 .gallerypictures img{
@@ -160,7 +159,6 @@ img{
 	border:5px solid #000;
 	margin:0 auto;
 	padding:2px;
-	float:right;
 	overflow: hidden;
 }	
 .clear{
